@@ -1,1 +1,1 @@
- A project for simple_shell with Rraphael Thomas and Mustapha Abdul Manaf
+ A project for simple_shell with Raphael Thomas and Mustapha Abdul Manaf
